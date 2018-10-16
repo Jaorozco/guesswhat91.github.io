@@ -8,10 +8,18 @@ title: Lee's Post
 _By Lee Solo_  
 _2018-10-01_
 
+<<<<<<< HEAD
 
 WOW!!! What an amazing week!!! Last week past by quickly, there were a lot of emotions (mostly positive :smiley:). I got to meet my fellow cohorts and they are an interesting fun loving bunch. A lot of new interesting tools and techniques were introduced to us. All of them were informative that I will be using as a new Data Scientist.  
 
 
+=======
+ 
+WOW!!! What an amazing week!!! Last week past by quickly, there were a lot of emotions (mostly positive). I got to meet my fellow cohorts and they are an interesting fun loving bunch. A lot of new interesting tools and techniques were introduced to us. All of them were informative that I will be using as a new Data Scientist.  
+
+
+
+>>>>>>> f04f2618b5ba711a9c7298b9a64f53c9a4d1cdda
 During Week 1, we were tasked with a project that helped us strengthen our skills in EDA (Exploratory Data Analysis). We had to analyze NYC MTA turnstile data and give a recommendation on which station would produce the highest number of signups for the Women Tech Women Yes (WTWY) Gala.   
 
 
@@ -29,3 +37,7 @@ Our final recommendation was an interactive map where we were able to see the cl
 
 
 In conclusion if I had to work on this project by myself I most probably would have gone with a different approach since I had no exposure to web scraping and folium. I am glad that I got to work with Johnathan and Krishna since I got exposed to new Data Science tools early in the Bootcamp.  
+<<<<<<< HEAD
+=======
+
+>>>>>>> f04f2618b5ba711a9c7298b9a64f53c9a4d1cdda
